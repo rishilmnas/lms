@@ -29,24 +29,4 @@ complete, and XHR requests to finish, reducing the need for manual wait commands
 <p><strong>Key Points:</strong> Cypress is a popular open-source framework for end-to-end testing, offering features like real-time previews, automatic waiting, and easy debugging without the need for Selenium. It supports modern JavaScript frameworks and allows testing across different types, including E2E, integration, unit, and API testing in browsers like Chrome and Firefox.</p>
 </blockquote>
 <hr>
-<h1 id="installation-and-setup">Installation and setup</h1>
-<h2 id="install-node.js">1. Install Node.js</h2>
-<p>Downloadd and install Node.js from the <a href="https://nodejs.org/en">official website</a> , if installed ignore this step</p>
-<h3 id="verify-node.js-and-npm-installation">Verify Node.js and npm installation</h3>
-<p>Open a terminal or command promt and run the following commmands to verify installation:<br>
-<code>node -v npm</code></p>
-<h2 id="install-cypress">2. Install Cypress</h2>
-<h3 id="installation-command">Installation command</h3>
-<p>Open a terminal or command promt and run the following commmands:<br>
-npm install cypress<br>
-Verify Cypress installation<br>
-npx cypress verify</p>
-<h2 id="open-cypress">3. Open Cypress</h2>
-<p>Open a terminal or command promt and run the following commmands to open Cypress:<br>
-npx cypress open</p>
-<blockquote>
-<p><strong>Key Points</strong><br>
-line 1<br>
-line2</p>
-</blockquote>
 
