@@ -7,7 +7,7 @@
 <p><strong>Description:</strong></p>
 <p>Learn how to get started with Cypress, a powerful testing framework. This video covers the basics of Cypress, including setup, usage, and key features.</p>
 <p><strong>Watch the Video:</strong></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tRI5ruE7yCA?si=6jmuhMrbcg1g3Twq" title="How to Master Cypress" allowfullscreen=""></iframe>
+<iframe width="900" height="400" src="https://www.youtube.com/embed/tRI5ruE7yCA?si=6jmuhMrbcg1g3Twq" title="How to Master Cypress" allowfullscreen=""></iframe>
 <p><strong>Timestamps:</strong></p>
 <ul>
 <li>
