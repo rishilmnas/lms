@@ -14,7 +14,7 @@
 <p>Get ready to uncover how these commands can streamline your testing process and enhance your productivity.</p>
 <h3 id="lesson-5--quiz-on-cypress-commands">Lesson 4 : Quiz on Cypress Commands</h3>
 <p>This lesson includes practical tasks to reinforce your learning and a quiz to ensure you grasp the essential concepts. Let’s get started and see how much you’ve mastered!</p>
-<h3 id="lesson-4--hand-on-practices-on-cypress">Lesson 5 : Hand on Practices on Cypress</h3>
+<h3 id="lesson-4--hands-on-practices-on-cypress">Lesson 5 : Hand on Practices on Cypress</h3>
 <p>We’ll focus on how to navigate to a specific website using Cypress and explore the essential commands involved. This is a fundamental aspect of writing end-to-end tests.</p>
 
 <h2 id="moving-forward">Moving Forward</h2>
